@@ -1,3 +1,4 @@
+require 'vcard'
 # Namespace for helper methods to generate a vcard.
 module Parliament
   module Utils
